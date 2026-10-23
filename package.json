@@ -1,0 +1,23 @@
+{
+  "name": "helix-capital-research-note",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Helix Capital 财报后一页研究笔记 · 需求发现报告原型（REQ-1~REQ-6）",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}
